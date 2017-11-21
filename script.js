@@ -15,4 +15,4 @@ for (vv = 1; vv < 25; vv++) {
 	}
 	adventBoxesHTML += newHTML;
 }
-document.getElementById("adventBoxes").innerHTML = adventBoxesHTML;
+	document.getElementById("adventBoxes").innerHTML = adventBoxesHTML;

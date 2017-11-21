@@ -1,4 +1,4 @@
-@-webkit-keyframes shake {
+	@-webkit-keyframes shake {
 	  0% {
 		-webkit-transform: rotate(0deg);
 				transform: rotate(0deg);
@@ -169,4 +169,4 @@
 	  border: 0.35rem solid #a94b61;
 	  z-index: 0;
 	}
-.article:hover .box.closedDoor { transform: none; }
+	.article:hover .box.closedDoor { transform: none; }
