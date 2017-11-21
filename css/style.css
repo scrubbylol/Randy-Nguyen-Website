@@ -169,4 +169,4 @@
 	  border: 0.35rem solid #a94b61;
 	  z-index: 0;
 	}
-	.article:hover .box.closedDoor { transform: none; }
+	.article:hover .box.closedDoor { -webkit-transform: none; transform: none; }
