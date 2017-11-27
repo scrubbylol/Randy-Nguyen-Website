@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?> 
 <?PHP 
     #include_once("connection.php"); 
     $servername = "192.168.0.10"; //replace it with your database server name
