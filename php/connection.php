@@ -1,5 +1,5 @@
 <?php
-	$servername = "localhost"; //replace it with your database server name
+	$servername = "192.168.0.10"; //replace it with your database server name
 	$username = "root";  //replace it with your database username
 	$password = "";  //replace it with your database password
 	$dbname = "dotf_hs";
