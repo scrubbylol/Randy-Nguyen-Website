@@ -1,6 +1,6 @@
 {
 "companyName": "GHD Limited",
-"productName": "11181627 Bridge Demo",
+"productName": "11157077 - CP Derailment",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
@@ -8,6 +8,6 @@
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#000000",
+"backgroundColor": "#231F20",
 "cacheControl": {"default": "must-revalidate"}
 }
