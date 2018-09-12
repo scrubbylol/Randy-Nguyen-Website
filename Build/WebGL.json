@@ -1,13 +1,13 @@
 {
-"companyName": "GHD Limited",
-"productName": "11157077 - CP Derailment",
+"companyName": "DefaultCompany",
+"productName": "Lightweight RP Test",
 "dataUrl": "WebGL.data.unityweb",
-"wasmCodeUrl": "WebGL.wasm.code.unityweb",
-"wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
+"asmCodeUrl": "WebGL.asm.code.unityweb",
+"asmMemoryUrl": "WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL.asm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
+"backgroundColor": "#231F20"
 }
