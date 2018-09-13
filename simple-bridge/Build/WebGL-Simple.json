@@ -1,0 +1,13 @@
+{
+"companyName": "GHD Limited",
+"productName": "11181627 Bridge Demo",
+"dataUrl": "WebGL-Simple.data.unityweb",
+"wasmCodeUrl": "WebGL-Simple.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL-Simple.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
