@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/app/AR PopUp v1.70.ipa</string>
+		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/app/AR PopUp.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/app/ghd_small.png</string>
 		<key>fullSizeImageURL</key>
@@ -17,8 +17,15 @@
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.GHD.LTD.ARPopUp</key>
+		<string>Ad Hoc iOS Distribution</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Distribution</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
