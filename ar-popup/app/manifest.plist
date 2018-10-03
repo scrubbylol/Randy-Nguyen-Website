@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/app/arpopup.ipa</string>
+					<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/app/AR PopUp v1.70.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>PopUp</string>
+				<string>AR PopUp v1.7.0</string>
 			</dict>
 		</dict>
 	</array>

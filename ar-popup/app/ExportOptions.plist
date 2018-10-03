@@ -9,14 +9,14 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/app/arpopup.ipa</string>
+		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/app/AR PopUp v1.70.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/app/ghd_small.png</string>
 		<key>fullSizeImageURL</key>
 		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/app/ghd_full.png</string>
 	</dict>
 	<key>method</key>
-	<string>development</string>
+	<string>ad-hoc</string>
 	<key>signingStyle</key>
 	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
