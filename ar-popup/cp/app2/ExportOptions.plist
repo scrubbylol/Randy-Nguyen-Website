@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/cp/app2/AR PopUp.ipa</string>
+		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/cp/app/AR PopUp.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/cp/app2/ghd_small.png</string>
+		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/cp/app/ghd_small.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/cp/app2/ghd_full.png</string>
+		<string>https://scrubbylol.github.io/Randy-Nguyen-Website/ar-popup/cp/app/ghd_full.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>

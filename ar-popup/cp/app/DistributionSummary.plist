@@ -2,21 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AR PopUp.ipa</key>
+	<key>CP PopUP.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
 			<array>
+				<string>armv7</string>
 				<string>arm64</string>
 			</array>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>508178640DF47433E576D2675B6C4C426D76A4A9</string>
+				<string>658D1C3A2F3FFB35AF9BDD7E46174A2D250272F7</string>
 				<key>dateExpires</key>
-				<string>2019-10-02</string>
+				<string>2019-10-03</string>
 				<key>type</key>
-				<string>iOS Distribution</string>
+				<string>iOS Development</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -29,11 +30,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>508178640DF47433E576D2675B6C4C426D76A4A9</string>
+						<string>658D1C3A2F3FFB35AF9BDD7E46174A2D250272F7</string>
 						<key>dateExpires</key>
-						<string>2019-10-02</string>
+						<string>2019-10-03</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
 					<string>Vuforia.framework</string>
@@ -49,24 +50,24 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>4KR6S48UY5.com.GHD.CPPopUp</string>
+				<string>4KR6S48UY5.com.GHD.CP.ARPopUP</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>4KR6S48UY5</string>
 				<key>get-task-allow</key>
-				<false/>
+				<true/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>4KR6S48UY5.com.GHD.CPPopUp</string>
+					<string>4KR6S48UY5.com.GHD.CP.ARPopUP</string>
 				</array>
 			</dict>
 			<key>name</key>
-			<string>PopUp.app</string>
+			<string>ARPopUP.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>347c2de6-fbab-4437-a9c5-1a1031d2da60</string>
+				<string>628562e3-eebe-4808-acd5-b06f942ea784</string>
 				<key>name</key>
-				<string>Ad Hoc Randy</string>
+				<string>CP iOS Development</string>
 			</dict>
 			<key>team</key>
 			<dict>
